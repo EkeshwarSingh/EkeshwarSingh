@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am Ekeshwar Singh, a postgraduate student in Statistics with a strong interest in data analysis, machine learning, and predictive modeling. I am currently pursuing my Master’s in Statistics at Babasaheb Bhimrao Ambedkar University, Lucknow.<br><br>I work with Python, R, NumPy, Pandas, and Matplotlib, and have hands-on experience in time-series forecasting, stock price prediction, and sports analytics. I enjoy applying statistical concepts to real-world problems and continuously improving my analytical skills.<br><br>I aspire to build a career in data science and analytics, combining strong statistical foundations with practical problem-solving.
+I am Ekeshwar Singh, a recent M.Sc. Statistics graduate from Babasaheb Bhimrao Ambedkar University, Lucknow, with a strong interest in Data Science, Data Analytics, and Machine Learning. I have a solid foundation in statistics, predictive modeling, and data-driven problem solving.
+
+I work with Python, SQL, R, NumPy, Pandas, Matplotlib, Excel, and Power BI, and have hands-on experience in data analysis, ETL, machine learning, time-series forecasting, sports analytics, and dashboard development through academic and internship projects. I enjoy applying statistical techniques and analytical methods to solve real-world business problems while continuously expanding my technical expertise.
+
+I aspire to build a career in Data Science, Data Engineering, or Data Analytics, where I can leverage my statistical background, programming skills, and practical experience to deliver impactful, data-driven solutions.
+
 
 
 ## 🌐 Socials:
